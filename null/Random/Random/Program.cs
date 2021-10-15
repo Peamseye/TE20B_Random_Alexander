@@ -25,6 +25,8 @@ ToolBox.WriteCentered("");
 ToolBox.WriteCentered("");
 
 
+
+
 Random generator = new Random();
 
 int damage = generator.Next(1, 51);
